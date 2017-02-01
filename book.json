@@ -1,0 +1,31 @@
+{
+    "gitbook": "3.x.x",
+    "title": "Angular2-D3",
+    "root": "/docs",
+    "plugins": [
+        "highlight",
+        "github",
+        "theme-api",
+        "include-codeblock",
+        "versions",
+        "anchors",
+        "githubcontributors",
+        "collapsible-chapters",
+        "youtube"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/piterpansmile/Angular2-D3.js/"
+        },
+        "theme-api": {
+            "theme": "dark"
+        },
+        "versions": {
+            "type": "tags"
+        },
+        "githubcontributors": {
+          "githubOwner": "piterpansmile",
+          "githubRepository": "Angular2-D3"
+        }
+    }
+}
